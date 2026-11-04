@@ -1,3 +1,7 @@
+> **Ovia Inc fork — modification reference.** We maintain this fork of [different-ai/openwork](https://github.com/different-ai/openwork). **Modifications by Ovia Inc:** this reference note, added November 2026 as part of the collection-wide documentation pass; the expanded Ovia README treatment (Ovia section, story, topics and description) follows in the daily improvement queue. Upstream code and content are otherwise unchanged from the fork point, except where a later commit in this repository says so. Upstream credit: different-ai. Licence: MIT (see LICENSE where present).
+
+---
+
 # OpenWork
 
 OpenWork is an **extensible, open-source “Claude Work” style system for knowledge workers**.
